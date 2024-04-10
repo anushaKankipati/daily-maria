@@ -5,7 +5,7 @@ const imageList = ['images/1.jpeg', 'images/2.jpeg', 'images/3.jpeg', 'images/4.
                   'images/21.jpeg', 'images/22.jpeg', 'images/23.jpeg', 'images/24.jpeg', 'images/25.jpeg',
                   'images/26.jpeg', 'images/27.jpeg', 'images/28.jpeg', 'images/29.jpeg', 'images/30.jpeg',
                   'images/31.jpeg', 'images/32.jpeg', 'images/33.jpeg', 'images/34.jpeg', 'images/35.jpeg',
-                  'images/36.jpeg', 'images/37.jpeg', 'images/38.jpeg', 'images/39.jpeg', 'images/40.jpeg'];
+                  'images/36.jpeg', 'images/37.jpeg', 'images/38.jpeg', 'images/39.jpeg', 'images/40.jpeg', 'images/41.jpeg'];
 
 const mainImage = document.getElementById('mainImage');
 const countdownElement = document.getElementById('countdown');
